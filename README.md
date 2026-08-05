@@ -7,7 +7,7 @@
 
 dasha.cheremnykh@yandex.ru
 
-Черемных_CV_Аналитик.pdf
+[Резюме](Черемных_CV_Аналитик.pdf)
 
 
 **Обо мне**
