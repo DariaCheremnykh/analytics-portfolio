@@ -30,6 +30,7 @@ dasha.cheremnykh@yandex.ru
 
 - Excel
 - Python (Pandas, Seaborn)
+- SQL
 - PowerPoint
 - Figma
 
